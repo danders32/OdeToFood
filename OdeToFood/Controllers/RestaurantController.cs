@@ -24,7 +24,7 @@ namespace OdeToFood.Controllers
         //
         // GET: /Restaurant/Details/5
 
-
+        //Added one extra comment to Restaurant controller
         //
         // GET: /Restaurant/Create
         [Authorize(Roles = "admin")]
